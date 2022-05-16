@@ -13,7 +13,7 @@ This repository contains the code used for the analysis in the paper: "Zhang et 
 ## Model structure
 The CNN-LSTM deep learning model for soil organic carbon (SOC) predictive mapping with inputs of static and dynamic environmental covariates. The spatially contextual features in static variables (e.g. topographic variables) were extracted by CNN, while the temporal features in dynamic variables (e.g. vegetation phenology over a long period of time) were extracted by LSTM. The extracted spatial and temporal features are concatenated to connect fully-connected layers for calculating the outputs (predicted SOC values).
 
-![model_structure]('./model_structure.jpg')
+![model_structure](./model_structure.jpg)
 
 ## Description of directories and files
 - **data (directory)**:
