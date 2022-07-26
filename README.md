@@ -51,7 +51,7 @@ python pred.py
 
 The saved model can be loaded and evaluating on the test set.
 
-## The data source (environmental covariates)
+## Data sources (environmental covariates)
 - The climate data are available at: https://www.worldclim.org
 - The topographic data are available at: https://doi.org/10.5069/G91R6NPX
 - The MODIS land surface phenology product (MCD12Q2) and EVI (calculated based on MOD09GA) data data are available at: https://ladsweb.modaps.eosdis.nasa.gov
