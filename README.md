@@ -1,5 +1,9 @@
 # CNN-LSTM_for_DSM
-This repository contains the code used for the analysis in the paper: "Zhang et al. A CNN-LSTM model for soil organic carbon content prediction with long time series of MODIS-based phenological variables" (under review).
+This repository contains the code used for the analysis in the paper:
+
+Zhang et al. 2022. A CNN-LSTM Model for Soil Organic Carbon Content Prediction with Long Time Series of MODIS-Based Phenological Variables. *Remote Sensing* 14, 4441.
+
+[https://doi.org/10.3390/rs14184441](https://doi.org/10.3390/rs14184441)
 
 ## Requirement
 - Python3
